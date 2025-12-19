@@ -5,7 +5,6 @@
         "streetsidesoftware.code-spell-checker",
         "GitHub.vscode-pull-request-github",
         "eamodio.gitlens",
-        "ms-vscode.vscode-typescript-next",
         "unifiedjs.vscode-mdx",
         "davidanson.vscode-markdownlint"
     ]
